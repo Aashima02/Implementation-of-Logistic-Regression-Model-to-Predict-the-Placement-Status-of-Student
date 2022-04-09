@@ -83,7 +83,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 <br>
 
 ### Classification Report:
-![output](./pred.png)
+![output5](https://user-images.githubusercontent.com/93427086/162560198-e3822e5b-2157-4785-9571-5b93a701318e.png)
+
 <br>
 
 
